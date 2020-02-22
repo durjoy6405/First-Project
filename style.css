@@ -1,0 +1,21 @@
+
+body{
+    background-image: url("https://lh3.googleusercontent.com/proxy/N94xuf9AMhInC5wjK_Pr0Nszk9ZTDZUtc2oKS0QmSoYPNM7vAgTCwLmfx_mGAstufM6p47t4of2ORKdN0IcKpNFOlxj-rTrxWm63T7FAPg4");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+img{
+   border-radius: 60%; 
+}
+.same{
+    margin-top: 0.5in;
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+      
+}
+h3{
+    font-size: 35px;
+}
